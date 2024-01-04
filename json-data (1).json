@@ -1,0 +1,35 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 300,
+            "IconURL": "https://i.imgur.com/M9030lQ.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": false,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Baked Shoes Gaming Events",
+                    "text1": Thank you for joining us in some fun adventures. \nPrizes will be handed out on the server of your choice
+                    "imageurl": "https://i.imgur.com/SmhSgiD.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.com/invite/QxGACJwbQ5"
+                }
+            }
+        ]
+    }
+}
